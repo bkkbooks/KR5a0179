@@ -1,0 +1,153 @@
+canonical_identifier: bkk:krp/KR5a0179/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0179/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三洞眾戒文
+  date: '2015-08-28 23:40:02.804783'
+  source:
+    repository: kanripo
+    path: KR5a0179
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0179_000-CK-KZ-jye.yaml, hash: 'sha256:2a7ec8f3b8a0738b12130c862e1f969743a962e2f13a6d21ec0bc5a6620c86f9'}
+  - {seq: 1, filename: KR5a0179_001-CK-KZ-jye.yaml, hash: 'sha256:b95b6d74c3757a6a3bb53889fc721c0bcc099f3531b3bcc149313e0c70f50aff'}
+  - {seq: 2, filename: KR5a0179_002-CK-KZ-jye.yaml, hash: 'sha256:638ad958fff72e7a67f3e534fc0cb55403f6a0d395cba69c1ac2d8709522d0f9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0179_000-CK-KZ-jye.markers.yaml, hash: 'sha256:9f3152e8e92821884957b13d2ca8824b11c595707a1e773b1f5d70cd3c4a7baa'}
+  - {seq: 1, role: markers, filename: assets/KR5a0179_001-CK-KZ-jye.markers.yaml, hash: 'sha256:62f7be049e83f1988f73f31728ac9f13c22272d68f9de2c6d5bd65c024898a78'}
+  - {seq: 2, role: markers, filename: assets/KR5a0179_002-CK-KZ-jye.markers.yaml, hash: 'sha256:3d1b9e3aa5c1b8a44da20c86cf2870fe96f5d1d4a1f703a767f46e0d2f0d6114'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0179_CK-KZ_01p049b
+    span:
+    - body
+    - 0
+    - 22
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0179_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 521
+  label: 始起心入道三歸戒文(出太玄部)
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5a0179_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 521
+    - 1297
+  label: 弟子奉師科戒文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0179_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 0
+    - 292
+  label: 靈寶初盟閉塞六情戒文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0179_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 292
+    - 504
+  label: 三戒文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0179_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 504
+    - 729
+  label: 五戒文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0179_CK-KZ-jye_002-h5
+    span:
+    - body
+    - 729
+    - 992
+  label: 八戒文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0179_CK-KZ-jye_002-h6
+    span:
+    - body
+    - 992
+    - 1254
+  label: 三訣文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0179_CK-KZ-jye_002-h7
+    span:
+    - body
+    - 1254
+    - 1391
+  label: 八敗文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0179_CK-KZ-jye_002-h8
+    span:
+    - body
+    - 1391
+    - 1418
+  label: 三要文¶<md:KR5a0179_HFL_002-006b>
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0179_CK-KZ-jye_002-h9
+    span:
+    - body
+    - 1418
+    - 1524
+  label: 十三禁文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0179_CK-KZ-jye_002-h10
+    span:
+    - body
+    - 1524
+    - 2588
+  label: 七百二十門要戒律訣文
+  type: section
+  level: 2
+hash: sha256:41d304f06c9037750bada4a8dd8664cd22c51b8676146578494f091e16551a76

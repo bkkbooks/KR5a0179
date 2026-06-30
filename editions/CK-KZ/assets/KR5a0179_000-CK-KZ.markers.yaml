@@ -1,0 +1,123 @@
+canonical_identifier: bkk:krp/KR5a0179/CK-KZ/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl1}
+  - {type: page-break, offset: 0, content: '', id: KR5a0179_CK-KZ_01p037a, image: JY270/CK-KZ_JY270_01p037a.png}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl2}
+  - {type: line-break, offset: 0, content: '', id: KR5a0179_CK-KZ_01p037a01}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl3}
+  - {type: line-break, offset: 6, content: '', id: KR5a0179_CK-KZ_01p037a02}
+  - {type: line-break, offset: 23, content: '', id: KR5a0179_CK-KZ_01p037a03}
+  - {type: 'kr:newline', offset: 30, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl4}
+  - {type: line-break, offset: 30, content: '', id: KR5a0179_CK-KZ_01p037a04}
+  - {type: line-break, offset: 40, content: '', id: KR5a0179_CK-KZ_01p037a05}
+  - {type: 'kr:newline', offset: 54, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl5}
+  - {type: line-break, offset: 54, content: '', id: KR5a0179_CK-KZ_01p037a06}
+  - {type: line-break, offset: 57, content: '', id: KR5a0179_CK-KZ_01p037a07}
+  - {type: line-break, offset: 74, content: '', id: KR5a0179_CK-KZ_01p037a08}
+  - {type: 'kr:newline', offset: 78, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl6}
+  - {type: line-break, offset: 78, content: '', id: KR5a0179_CK-KZ_01p037a09}
+  - {type: line-break, offset: 91, content: '', id: KR5a0179_CK-KZ_01p037a10}
+  - {type: 'kr:newline', offset: 102, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl7}
+  - {type: line-break, offset: 102, content: '', id: KR5a0179_CK-KZ_01p037a11}
+  - {type: line-break, offset: 108, content: '', id: KR5a0179_CK-KZ_01p037a12}
+  - {type: line-break, offset: 125, content: '', id: KR5a0179_CK-KZ_01p037a13}
+  - {type: 'kr:newline', offset: 126, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl8}
+  - {type: line-break, offset: 126, content: '', id: KR5a0179_CK-KZ_01p037a14}
+  - {type: line-break, offset: 142, content: '', id: KR5a0179_CK-KZ_01p037a15}
+  - {type: 'kr:newline', offset: 150, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl9}
+  - {type: line-break, offset: 150, content: '', id: KR5a0179_CK-KZ_01p037a16}
+  - {type: line-break, offset: 159, content: '', id: KR5a0179_CK-KZ_01p037a17}
+  - {type: 'kr:newline', offset: 174, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl10}
+  - {type: line-break, offset: 174, content: '', id: KR5a0179_CK-KZ_01p037a18}
+  - {type: line-break, offset: 176, content: '', id: KR5a0179_CK-KZ_01p037a19}
+  - {type: line-break, offset: 193, content: '', id: KR5a0179_CK-KZ_01p037a20}
+  - {type: 'kr:newline', offset: 198, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl11}
+  - {type: line-break, offset: 198, content: '', id: KR5a0179_CK-KZ_01p037a21}
+  - {type: line-break, offset: 210, content: '', id: KR5a0179_CK-KZ_01p037a22}
+  - {type: 'kr:newline', offset: 222, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl12}
+  - {type: page-break, offset: 222, content: '', id: KR5a0179_CK-KZ_01p037b, image: JY270/CK-KZ_JY270_01p037b.png}
+  - {type: 'kr:newline', offset: 222, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl13}
+  - {type: line-break, offset: 222, content: '', id: KR5a0179_CK-KZ_01p037b01}
+  - {type: line-break, offset: 227, content: '', id: KR5a0179_CK-KZ_01p037b02}
+  - {type: line-break, offset: 244, content: '', id: KR5a0179_CK-KZ_01p037b03}
+  - {type: 'kr:newline', offset: 246, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl14}
+  - {type: line-break, offset: 246, content: '', id: KR5a0179_CK-KZ_01p037b04}
+  - {type: line-break, offset: 261, content: '', id: KR5a0179_CK-KZ_01p037b05}
+  - {type: 'kr:newline', offset: 270, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl15}
+  - {type: line-break, offset: 270, content: '', id: KR5a0179_CK-KZ_01p037b06}
+  - {type: line-break, offset: 278, content: '', id: KR5a0179_CK-KZ_01p037b07}
+  - {type: 'kr:newline', offset: 294, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl16}
+  - {type: line-break, offset: 294, content: '', id: KR5a0179_CK-KZ_01p037b08}
+  - {type: line-break, offset: 295, content: '', id: KR5a0179_CK-KZ_01p037b09}
+  - {type: line-break, offset: 312, content: '', id: KR5a0179_CK-KZ_01p037b10}
+  - {type: 'kr:newline', offset: 318, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl17}
+  - {type: line-break, offset: 318, content: '', id: KR5a0179_CK-KZ_01p037b11}
+  - {type: line-break, offset: 329, content: '', id: KR5a0179_CK-KZ_01p037b12}
+  - {type: 'kr:newline', offset: 342, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl18}
+  - {type: line-break, offset: 342, content: '', id: KR5a0179_CK-KZ_01p037b13}
+  - {type: line-break, offset: 346, content: '', id: KR5a0179_CK-KZ_01p037b14}
+  - {type: line-break, offset: 363, content: '', id: KR5a0179_CK-KZ_01p037b15}
+  - {type: 'kr:newline', offset: 366, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl19}
+  - {type: line-break, offset: 366, content: '', id: KR5a0179_CK-KZ_01p037b16}
+  - {type: line-break, offset: 380, content: '', id: KR5a0179_CK-KZ_01p037b17}
+  - {type: 'kr:newline', offset: 390, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl20}
+  - {type: line-break, offset: 390, content: '', id: KR5a0179_CK-KZ_01p037b18}
+  - {type: line-break, offset: 397, content: '', id: KR5a0179_CK-KZ_01p037b19}
+  - {type: 'kr:newline', offset: 414, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl21}
+  - {type: line-break, offset: 414, content: '', id: KR5a0179_CK-KZ_01p037b20}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5a0179_CK-KZ_01p037b21}
+  - {type: indent, offset: 0, content: 　, id: KR5a0179_CK-KZ_000-bkkind1}
+  - {type: line-break, offset: 16, content: '', id: KR5a0179_CK-KZ_01p037b22}
+  - {type: 'kr:newline', offset: 22, content: '
+
+      ', id: KR5a0179_CK-KZ_000-bkkkrnewl2}
+  back: []
+hash: sha256:9334958e3bf8a6d62a8e0aa9819f23d3c042f0096d468ac65fd96e213a99c669

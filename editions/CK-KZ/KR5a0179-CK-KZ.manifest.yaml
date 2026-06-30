@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR5a0179/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0179/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三洞眾戒文
+  date: '2015-08-28 23:40:02.804783'
+  source:
+    repository: kanripo
+    path: KR5a0179
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0179_000-CK-KZ.yaml, hash: 'sha256:ba4a29df162d8de18b7b4837d9fd3dd3ae201fb1fc793502f1e42f618078e427'}
+  - {seq: 1, filename: KR5a0179_001-CK-KZ.yaml, hash: 'sha256:759a09ebaa23756bb75e5a695e70f8bd5554bff5faed1aa7af5abf59fc53b197'}
+  - {seq: 2, filename: KR5a0179_002-CK-KZ.yaml, hash: 'sha256:abd2fcd4acfdef3a107f6e2d5c7e68baa6bce73bfc498a3c27d65f55e9bfaf38'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0179_000-CK-KZ.markers.yaml, hash: 'sha256:9334958e3bf8a6d62a8e0aa9819f23d3c042f0096d468ac65fd96e213a99c669'}
+  - {seq: 1, role: markers, filename: assets/KR5a0179_001-CK-KZ.markers.yaml, hash: 'sha256:7aca2ffd7d892cc3e662ac12a739a848462086feb83b5117f2a6c91d2cf2b4a3'}
+  - {seq: 2, role: markers, filename: assets/KR5a0179_002-CK-KZ.markers.yaml, hash: 'sha256:0b259f13554bcfc03cb9a1b185f1757a1a5ca7af16cc854d8c9871228a3c816d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0179_CK-KZ_01p049b
+    span:
+    - body
+    - 0
+    - 22
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0179_CK-KZ_01p038a
+    span:
+    - body
+    - 0
+    - 1332
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0179_CK-KZ_01p041b
+    span:
+    - body
+    - 0
+    - 2630
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:91c52523054045e991b31604915a399af84c0968bd08971a39ce69d797a1dc77

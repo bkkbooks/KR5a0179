@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5a0179/CK-KZ-jye/v1/juan/0
+seq: 0
+front:
+  text: 萬福伏按三洞諸經說戒多矣難以具詳學道求眞莫不先持齋戒故靈寶昇玄步虗章云皆從齋戒起累功結宿緣又太極左仙公云學道不修齋戒亦徒勞山林矣由是詳之夫戒者戒諸惡行防眾行之最若不持戒道無由得然道經不師受則行之不神三洞科儀備有條格而師資禀訓各據一門吳蜀京都相承或異良以教戒須漸頓悟人有賢愚設法隨機要存合道恐跼見之徒妄生疑惑其傳授經法次第已如三洞法目今又依經籙出戒文附諸法次受法之日隨法轉授令道士誦習防非止惡以制六情進品上仙遠超三界自淺之深非無優劣從凡入聖各有等差聊舉大綱庶通玄覺即始起心入道受三歸戒籙生五戒八戒在俗男女無上十戒新出家者初眞戒正一弟子七十二戒男官女官老君百八十戒清信弟子天尊十戒十四持身品五千文金紐太清陰陽戒太上高玄法師二十七戒洞神三道要言五戒十三戒七百二十戒門昇玄内教百二十九戒靈寶初盟閉塞六情戒中盟智慧上品大戒大盟三元百八十品戒上清智慧觀身二百大戒凡受法各授法服宣示法服科戒簡授法位乃授天尊要戒及勸戒三日後設齋謝恩授三師名諱形狀居觀方所並具之于左
+  hash: sha256:3ac98aa641e6b5b941115aee88ce8587855636e6af5983926a0ccf315ae20d4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0179_CK-KZ_01p049b, image: JY270/CK-KZ_JY270_01p049b.png}
+  - {type: head, offset: 0, content: 三洞眾戒文序, id: KR5a0179_CK-KZ-jye_000-h1, level: 1}
+body:
+  text: 右與所授經法同時書寫雖具在經中臨事披覽難見也
+  hash: sha256:be979a44e5110f8b75678d4734d837cf125fe0cafd0ddf5883fb78bf501fbf73
+metadata:
+  title: 三洞眾戒文
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-28 23:40:02.804783'
+  source:
+    repository: kanripo
+    path: KR5a0179/KR5a0179_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:2a7ec8f3b8a0738b12130c862e1f969743a962e2f13a6d21ec0bc5a6620c86f9
