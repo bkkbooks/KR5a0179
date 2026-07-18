@@ -18,6 +18,7 @@ markers:
   - {type: punctuation, offset: 7, content: (, id: KR5a0179_krp_001-bkkpn1}
   - {type: variant, offset: 7, length: 3, content: 下同卷, CK-KZ: 三洞弟子京太清觀道士張萬福編錄}
   - {type: variant, offset: 7, length: 3, content: 下同卷, YP-C: 三洞弟子京太清觀道士張萬福編錄}
+  - {type: 'voice:problem', offset: 7, length: 0, id: KR5a0179_bkk_001-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 7}
   - {type: punctuation, offset: 9, content: /, id: KR5a0179_krp_001-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR5a0179_krp_001-bkkpn1}
@@ -26,6 +27,7 @@ markers:
       ', id: KR5a0179_krp_001-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR5a0179_HFL_001-001a02}
   - {type: indent, offset: 0, content: 　　　, id: KR5a0179_krp_001-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR5a0179_bkk_001-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: variant, offset: 5, length: 8, content: 三歸戒文出太玄部, CK-KZ-jye: 士張萬福編錄}
   - {type: punctuation, offset: 9, content: (, id: KR5a0179_krp_001-bkkpn2}
   - {type: punctuation, offset: 11, content: /, id: KR5a0179_krp_001-bkkpn3}
@@ -668,4 +670,4 @@ markers:
 
       ', id: KR5a0179_krp_001-bkkkrnewl109}
   back: []
-hash: sha256:edfdb9dedee870a88d3d5c0965d6a558b04eee4858539079abb697abd33b3c2e
+hash: sha256:a22ec0d3ee7259295ccbd8d16e15800e9372377d200379437f4d4d537ee9c1ce

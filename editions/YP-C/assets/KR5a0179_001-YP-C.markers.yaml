@@ -29,6 +29,7 @@ markers:
       ', id: KR5a0179_YP-C_001-bkkkrnewl3}
   - {type: line-break, offset: 15, content: '', id: KR5a0179_YP-C_26zhangji-02-0038a07}
   - {type: punctuation, offset: 24, content: (, id: KR5a0179_YP-C_001-bkkpn1}
+  - {type: voice, offset: 24, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 28, content: ), id: KR5a0179_YP-C_001-bkkpn2}
   - {type: 'kr:newline', offset: 28, content: '
 
@@ -366,4 +367,4 @@ markers:
 
       ', id: KR5a0179_YP-C_001-bkkkrnewl69}
   back: []
-hash: sha256:220073d1f29d082527c1e1efff20d9d0cb017552291a5383cd0a0323dc1e8fd0
+hash: sha256:59ac24f22d7a71d139e3b99b3dae79fa13a800abc0b0ecfede4124c8a875457f

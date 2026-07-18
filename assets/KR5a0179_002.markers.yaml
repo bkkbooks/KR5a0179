@@ -1318,6 +1318,7 @@ markers:
   - {type: variant, offset: 2645, length: 8, content: 三洞衆戒文卷下終, CK-KZ-jye: ''}
   - {type: variant, offset: 2645, length: 8, content: 三洞衆戒文卷下終, YP-C: ''}
   - {type: punctuation, offset: 2652, content: (, id: KR5a0179_krp_002-bkkpn1}
+  - {type: voice, offset: 2652, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2653, content: ), id: KR5a0179_krp_002-bkkpn2}
   - {type: 'kr:newline', offset: 2653, content: '
 
@@ -1357,4 +1358,4 @@ markers:
 
       ', id: KR5a0179_krp_002-bkkkrnewl219}
   back: []
-hash: sha256:3b11a6a12819c56ceafe2cde056a89b16162b84416a37ac18245b5fc17d42aac
+hash: sha256:435f92b027c20cbea639beb2f0554a3d9cf2aa16663c8acaddd722fc356af547
