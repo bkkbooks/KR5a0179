@@ -22,11 +22,11 @@ entity_encoding:
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 assets:
   parts:
-  - {seq: 0, filename: KR5a0179_000-CK-KZ-jye.yaml, hash: 'sha256:2a7ec8f3b8a0738b12130c862e1f969743a962e2f13a6d21ec0bc5a6620c86f9'}
+  - {seq: 0, filename: KR5a0179_000-CK-KZ-jye.yaml, hash: 'sha256:2fe7c128f63d3c5dfda6df4e952f9366c934755b652d6d592edf2e5c94e4c243'}
   - {seq: 1, filename: KR5a0179_001-CK-KZ-jye.yaml, hash: 'sha256:b95b6d74c3757a6a3bb53889fc721c0bcc099f3531b3bcc149313e0c70f50aff'}
   - {seq: 2, filename: KR5a0179_002-CK-KZ-jye.yaml, hash: 'sha256:638ad958fff72e7a67f3e534fc0cb55403f6a0d395cba69c1ac2d8709522d0f9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5a0179_000-CK-KZ-jye.markers.yaml, hash: 'sha256:9f3152e8e92821884957b13d2ca8824b11c595707a1e773b1f5d70cd3c4a7baa'}
+  - {seq: 0, role: markers, filename: assets/KR5a0179_000-CK-KZ-jye.markers.yaml, hash: 'sha256:1084246ec8883022a36cc6be7d89426a68d3ad5605ece463a381bff727e956dd'}
   - {seq: 1, role: markers, filename: assets/KR5a0179_001-CK-KZ-jye.markers.yaml, hash: 'sha256:62f7be049e83f1988f73f31728ac9f13c22272d68f9de2c6d5bd65c024898a78'}
   - {seq: 2, role: markers, filename: assets/KR5a0179_002-CK-KZ-jye.markers.yaml, hash: 'sha256:3d1b9e3aa5c1b8a44da20c86cf2870fe96f5d1d4a1f703a767f46e0d2f0d6114'}
 table_of_contents:
@@ -35,8 +35,8 @@ table_of_contents:
     marker_id: KR5a0179_CK-KZ_01p049b
     span:
     - body
-    - 0
-    - 22
+    - 424
+    - 446
   label: juan 000
   type: section
   level: 1
@@ -150,4 +150,4 @@ table_of_contents:
   label: 七百二十門要戒律訣文
   type: section
   level: 2
-hash: sha256:41d304f06c9037750bada4a8dd8664cd22c51b8676146578494f091e16551a76
+hash: sha256:fffdbfd19d419c3dada28163727dedd76a21bb1428b09a93e2d087fdb0043189

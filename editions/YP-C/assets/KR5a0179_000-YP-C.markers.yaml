@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR5a0179/YP-C/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR5a0179_YP-C_000-bkkkrnewl1}
@@ -109,15 +109,14 @@ markers:
 
       ', id: KR5a0179_YP-C_000-bkkkrnewl21}
   - {type: line-break, offset: 414, content: '', id: KR5a0179_YP-C_26zhangji-02-0037b20}
-  body:
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: 'kr:newline', offset: 430, content: '
 
       ', id: KR5a0179_YP-C_000-bkkkrnewl1}
-  - {type: line-break, offset: 0, content: '', id: KR5a0179_YP-C_26zhangji-02-0037b21}
-  - {type: indent, offset: 0, content: 　, id: KR5a0179_YP-C_000-bkkind1}
-  - {type: line-break, offset: 16, content: '', id: KR5a0179_YP-C_26zhangji-02-0037b22}
-  - {type: 'kr:newline', offset: 22, content: '
+  - {type: line-break, offset: 430, content: '', id: KR5a0179_YP-C_26zhangji-02-0037b21}
+  - {type: indent, offset: 430, content: 　, id: KR5a0179_YP-C_000-bkkind1}
+  - {type: line-break, offset: 446, content: '', id: KR5a0179_YP-C_26zhangji-02-0037b22}
+  - {type: 'kr:newline', offset: 452, content: '
 
       ', id: KR5a0179_YP-C_000-bkkkrnewl2}
   back: []
-hash: sha256:f33cf5e06c3b834f371601cb26c3bc826fe50474ee1cf0c4ae94bd02e7d231dc
+hash: sha256:23db23d239ace3522e6491e2c2ee4eced44400f08c436ca605b9fbe45c1eb725
